@@ -1,0 +1,13 @@
+.jumbotron {
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+#cones {
+  background-image: url(../img/icecream.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+}
